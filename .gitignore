@@ -1,0 +1,37 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Hugging Face / model caches
+.cache/
+huggingface/
+HF_HUB_CACHE/
+
+# Downloaded/pretrained model files
+pretrained_models/
+
+# Local audio files
+*.wav
+*.mp3
+*.m4a
+*.ogg
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
