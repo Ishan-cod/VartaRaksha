@@ -1,6 +1,3 @@
-#### THIS IS FOR TESTING PURPOSES ONLY. DO NOT USE THIS ####
-
-
 import asyncio
 import datetime
 from aimodels.tts_detector.detector import detect_deepfake
